@@ -27,6 +27,4 @@ This is a Python-based GUI app that predicts 2025 temperature for a selected Ind
 Made by Deepak — student weather modeling project.
 
 
----
-
 
