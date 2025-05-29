@@ -14,6 +14,8 @@ This is a Python-based GUI app that predicts 2025 temperature for a selected Ind
 ## 🖥️ Screenshot
 > ![Screenshot](https://github.com/deepak2noob/Weatherprediction/blob/main/screenshots/Untitled.png)
 
+> ![Screenshot](https://github.com/deepak2noob/Weatherprediction/blob/main/screenshots/untitled%202.png)
+
 ## 🚀 How to Run
 
 1. Install dependencies:
