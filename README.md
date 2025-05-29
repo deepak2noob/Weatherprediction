@@ -12,7 +12,7 @@ This is a Python-based GUI app that predicts 2025 temperature for a selected Ind
 - Summary statistics in terminal
 
 ## 🖥️ Screenshot
-> _(Add a screenshot in `/screenshots` folder and link it here)_
+> [(https://github.com/deepak2noob/Weatherprediction/blob/main/screenshots/Untitled.png)]
 
 ## 🚀 How to Run
 
