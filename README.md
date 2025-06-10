@@ -1,4 +1,4 @@
-# 🇮🇳 India Weather Predictor (2025)
+# 🇮🇳 Weather Predictor (2025)
 
 A Python-based interactive GUI application to predict daily mean temperatures for Indian metro cities in 2025, using historical weather data from 2014 to 2024.
 
