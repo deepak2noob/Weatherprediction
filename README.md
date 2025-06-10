@@ -35,7 +35,7 @@ A Python-based interactive GUI application to predict daily mean temperatures fo
 
 > ![Screenshot](https://github.com/deepak2noob/Weatherprediction/blob/main/screenshots/Untitled.png)  
 > ![Screenshot](https://github.com/deepak2noob/Weatherprediction/blob/main/screenshots/untitled%202.png)
-> [Screenshot](https://github.com/deepak2noob/Weatherprediction/blob/main/screenshots/untitled3.png)
+> ![Screenshot](https://github.com/deepak2noob/Weatherprediction/blob/main/screenshots/untitled3.png)
 
 
 ---
