@@ -44,7 +44,7 @@ A Python-based interactive GUI application to predict daily mean temperatures fo
 
 ```bash
 pip install -r requirements.txt
-
+```
 📝 Author
 Made by Deepak — student weather modeling project.
 
